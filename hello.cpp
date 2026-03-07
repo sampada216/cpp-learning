@@ -1,3 +1,4 @@
+// Basic structure of a C++ program
 #include <iostream>
 using namespace std;
 
